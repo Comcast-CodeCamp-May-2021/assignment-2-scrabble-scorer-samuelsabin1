@@ -13,10 +13,6 @@ const oldPointStructure = {
 };
 
 
-
-// let userWord=[];
-// let userNumber=[];
-
 function oldScrabbleScorer(word) {
 
   // revisit this function
